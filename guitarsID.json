@@ -1,0 +1,167 @@
+[
+    {
+		"ID" : "1",
+        "PRODUCTNAME": "Fender Stratocaster",
+        "GRAPHICNAME": "fender_stratocaster.jpg",
+        "COSTPRICE": "600.00",
+        "MSRP": "1200.00",
+        "QTYONHAND": "10",
+        "QTYONBACKORDER": "5",
+        "DESCRIPTION": "The Fender Stratocaster is a legendary electric guitar known for its smooth sound and sleek design.",
+        "BRAND": "Fender"
+    },
+    {
+		"ID" : "2",
+        "PRODUCTNAME": "Fender Telecaster",
+        "GRAPHICNAME": "fender_telecaster.jpg",
+        "COSTPRICE": "550.00",
+        "MSRP": "1100.00",
+        "QTYONHAND": "15",
+        "QTYONBACKORDER": "3",
+        "DESCRIPTION": "The Fender Telecaster is a versatile electric guitar, perfect for both country and rock music.",
+        "BRAND": "Fender"
+    },
+    {
+		"ID" : "3",
+        "PRODUCTNAME": "Fender Jazzmaster",
+        "GRAPHICNAME": "fender_jazzmaster.jpg",
+        "COSTPRICE": "650.00",
+        "MSRP": "1300.00",
+        "QTYONHAND": "8",
+        "QTYONBACKORDER": "4",
+        "DESCRIPTION": "The Fender Jazzmaster is ideal for surf rock, known for its distinctive offset body and rich tones.",
+        "BRAND": "Fender"
+    },
+    {
+		"ID" : "4",
+        "PRODUCTNAME": "Fender Jaguar",
+        "GRAPHICNAME": "fender_jaguar.jpg",
+        "COSTPRICE": "700.00",
+        "MSRP": "1400.00",
+        "QTYONHAND": "12",
+        "QTYONBACKORDER": "6",
+        "DESCRIPTION": "The Fender Jaguar features unique controls and a short scale length, perfect for indie and punk rock.",
+        "BRAND": "Fender"
+    },
+    {
+		"ID" : "5",
+        "PRODUCTNAME": "Fender Mustang",
+        "GRAPHICNAME": "fender_mustang.jpg",
+        "COSTPRICE": "500.00",
+        "MSRP": "1000.00",
+        "QTYONHAND": "7",
+        "QTYONBACKORDER": "2",
+        "DESCRIPTION": "The Fender Mustang is a classic student model guitar, beloved for its compact size and punchy sound.",
+        "BRAND": "Fender"
+    },
+    {
+		"ID" : "6",
+        "PRODUCTNAME": "Gibson Les Paul",
+        "GRAPHICNAME": "gibson_les_paul.jpg",
+        "COSTPRICE": "1200.00",
+        "MSRP": "2400.00",
+        "QTYONHAND": "9",
+        "QTYONBACKORDER": "3",
+        "DESCRIPTION": "The Gibson Les Paul is a heavyweight guitar with a powerful sound, perfect for rock and blues.",
+        "BRAND": "Gibson"
+    },
+    {
+		"ID" : "7",
+        "PRODUCTNAME": "Gibson SG",
+        "GRAPHICNAME": "gibson_sg.jpg",
+        "COSTPRICE": "950.00",
+        "MSRP": "1900.00",
+        "QTYONHAND": "14",
+        "QTYONBACKORDER": "5",
+        "DESCRIPTION": "The Gibson SG is known for its double-cutaway body and fast neck, ideal for hard rock and metal.",
+        "BRAND": "Gibson"
+    },
+    {
+		"ID" : "8",
+        "PRODUCTNAME": "Gibson ES-335",
+        "GRAPHICNAME": "gibson_es_335.jpg",
+        "COSTPRICE": "1400.00",
+        "MSRP": "2800.00",
+        "QTYONHAND": "6",
+        "QTYONBACKORDER": "3",
+        "DESCRIPTION": "The Gibson ES-335 is a semi-hollow guitar, providing a warm and rich tone, perfect for jazz and blues.",
+        "BRAND": "Gibson"
+    },
+    {
+		"ID" : "9",
+        "PRODUCTNAME": "Gibson Flying V",
+        "GRAPHICNAME": "gibson_flying_v.jpg",
+        "COSTPRICE": "1100.00",
+        "MSRP": "2200.00",
+        "QTYONHAND": "11",
+        "QTYONBACKORDER": "2",
+        "DESCRIPTION": "The Gibson Flying V is an iconic guitar with a futuristic design, favored by rock and metal musicians.",
+        "BRAND": "Gibson"
+    },
+    {
+		"ID" : "10",
+        "PRODUCTNAME": "Gibson Explorer",
+        "GRAPHICNAME": "gibson_explorer.jpg",
+        "COSTPRICE": "1050.00",
+        "MSRP": "2100.00",
+        "QTYONHAND": "13",
+        "QTYONBACKORDER": "4",
+        "DESCRIPTION": "The Gibson Explorer offers a bold look and sound, perfect for hard-hitting rock performances.",
+        "BRAND": "Gibson"
+    },
+    {
+		"ID" : "11",
+        "PRODUCTNAME": "Gretsch White Falcon",
+        "GRAPHICNAME": "gretsch_white_falcon.jpg",
+        "COSTPRICE": "2000.00",
+        "MSRP": "4000.00",
+        "QTYONHAND": "4",
+        "QTYONBACKORDER": "1",
+        "DESCRIPTION": "The Gretsch White Falcon is a high-end guitar known for its stunning appearance and rich tone.",
+        "BRAND": "Gretsch"
+    },
+    {
+		"ID" : "12",
+        "PRODUCTNAME": "Gretsch Country Gentleman",
+        "GRAPHICNAME": "gretsch_country_gentleman.jpg",
+        "COSTPRICE": "1800.00",
+        "MSRP": "3600.00",
+        "QTYONHAND": "5",
+        "QTYONBACKORDER": "2",
+        "DESCRIPTION": "The Gretsch Country Gentleman is a classic guitar with a smooth sound, favored by country musicians.",
+        "BRAND": "Gretsch"
+    },
+    {
+		"ID" : "13",
+        "PRODUCTNAME": "Gretsch Duo Jet",
+        "GRAPHICNAME": "gretsch_duo_jet.jpg",
+        "COSTPRICE": "1600.00",
+        "MSRP": "3200.00",
+        "QTYONHAND": "7",
+        "QTYONBACKORDER": "3",
+        "DESCRIPTION": "The Gretsch Duo Jet is a versatile guitar with a solid body, perfect for a wide range of music styles.",
+        "BRAND": "Gretsch"
+    },
+    {
+		"ID" : "14",
+        "PRODUCTNAME": "Gretsch G5420T",
+        "GRAPHICNAME": "gretsch_g5420t.jpg",
+        "COSTPRICE": "1000.00",
+        "MSRP": "2000.00",
+        "QTYONHAND": "10",
+        "QTYONBACKORDER": "4",
+        "DESCRIPTION": "The Gretsch G5420T is a stylish hollow body guitar with a vibrant sound, great for rock and roll.",
+        "BRAND": "Gretsch"
+    },
+    {
+		"ID" : "15",
+        "PRODUCTNAME": "Gretsch G2622",
+        "GRAPHICNAME": "gretsch_g2622.jpg",
+        "COSTPRICE": "900.00",
+        "MSRP": "1800.00",
+        "QTYONHAND": "8",
+        "QTYONBACKORDER": "3",
+        "DESCRIPTION": "The Gretsch G2622 offers a modern twist on classic designs, with a punchy and dynamic sound.",
+        "BRAND": "Gretsch"
+    }
+]
